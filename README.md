@@ -16,7 +16,7 @@ Draw a flowchart and label the possible control paths. You may draw it using pen
 Create an Excel file with at least one test case for each control path. Use one row per test case with one column for the case's label matching the flowchart, one column for each input, and one column for each corresponding output.
 Write the Python code corresponding to each of your algorithm's steps.
 Test your completed code using your test cases. If the output doesn't match, correct your program.
-# Programmer: [your name]
+# Programmer: [Nicol ]
 # Course: CS701/GB-731, Dr. Rajeev  
 # Date: [Submission date]
 # Programming Assignment: 2
