@@ -40,7 +40,6 @@ elif month == 2:
         print ("there are 28 days")
 
 
-
 # else please enter valid input
 else:
     print("sorry, you can't read, please try again")
